@@ -1,0 +1,7 @@
+20221206	15:56:38	2023a99b-617d-4197-bacd-512cbcf474e9	TypeError: fsPromises.readFiles is not a function
+20221206	17:35:58	b8dca8c1-7c1e-4f65-9ed2-60cc73274cc1	Error: Now allowed by CORS
+20221207	15:09:17	c2991300-bd8c-4ed7-8a4b-9a1537d4a96b	SyntaxError: Unexpected token } in JSON at position 36
+20221207	15:42:55	6ec46ae5-2bb1-4b4e-913e-1579307a43b2	SyntaxError: Unexpected token } in JSON at position 13
+20221208	17:33:57	8822e93d-adc8-4216-9e18-18027b480030	SyntaxError: Unexpected token e in JSON at position 0
+20221209	12:03:25	5f525f05-fd43-415e-8312-a0bc5d55047e	SyntaxError: Unexpected token 
+ in JSON at position 22
